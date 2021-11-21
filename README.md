@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-![Header](![image](https://user-images.githubusercontent.com/69953716/142757125-7d61c43e-98c0-4141-9504-0f7a35c110dd.png))
+![Header]!(https://user-images.githubusercontent.com/69953716/142757144-5ca438a2-c338-42f4-ad27-9467473b66c5.png)
+
 
 # Hello folks!👋
 
