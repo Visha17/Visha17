@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Header](https://miro.medium.com/max/1024/0*4ty0Adbdg4dsVBo3.png)
+
+# Hello folks!👋
+
+My name is Visalatchi. I am a Frontend developer and Blogger. I am from india,studying  at REC.
+
+## &#x270d; Content Creation and Vlogging
+
+Apart from writing blogs , I love coding!!
