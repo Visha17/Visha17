@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![Header](https://miro.medium.com/max/1024/0*4ty0Adbdg4dsVBo3.png)
+![Header](![image](https://user-images.githubusercontent.com/69953716/142757125-7d61c43e-98c0-4141-9504-0f7a35c110dd.png))
 
 # Hello folks!👋
 
