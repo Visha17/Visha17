@@ -22,6 +22,15 @@ Here are some ideas to get you started:
 
 My name is Visalatchi. I am a Frontend developer and Blogger. I am from india,studying  at REC.
 
-## &#x270d; Content Creation and Vlogging
+## &#x270d; Blogging and Coding
 
 Apart from writing blogs , I love coding!!
+
+## 🔧 Langueages & Tools
+<p align='left'>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40">
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
+  <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
+   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+</p>
