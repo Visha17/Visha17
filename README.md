@@ -55,4 +55,4 @@ Apart from writing blogs , I love coding!!
 
 <a href="https://www.linkedin.com/in/visalatchi-r-bb5856203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Visalatchi" height="30" width="40" /></a>
 
-<a href="https://instagram.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+
