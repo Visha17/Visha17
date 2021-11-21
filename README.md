@@ -34,18 +34,18 @@ Apart from writing blogs , I love coding!!
 </p>
 
 ## &#x1f4c8; GitHub Stats
-<a href="https://github.com/AashimaAhuja/AashimaAhuja">
+<a href="https://github.com/Visha17/Visha17">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Visha17&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-<a href="https://github.com/AashimaAhuja/AashimaAhuja">
+<a href="https://github.com/Visha17/Visha17">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Visha17&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Visha's GitHub Stats" />
 </a>
-<a href="https://github.com/AashimaAhuja/AashimaAhuja">
+<a href="https://github.com/Visha17/Visha17">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Visha17a&repo=Masonary&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/AashimaAhuja/AashimaAhuja">
+<a href="https://github.com/Visha17/Visha17">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Visha17&repo=star-wars &title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/AashimaAhuja/AashimaAhuja">
+<a href="https://github.com/Visha17/Visha17">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Visha17&repo=Infinite-scroll &title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
