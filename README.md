@@ -22,11 +22,12 @@ Here are some ideas to get you started:
 
 # Hello folks!👋
 
-My name is Visalatchi. I am a Frontend developer and Blogger. I am from india,studying  at REC.
+My name is Visalatchi. I am a Frontend developer and Blogger. I am from India,studying  at REC.
 
 ## &#x270d; Blogging and Coding
 
 Apart from writing blogs , I love coding!!
+And I am newbie in Hacktoberfest!!It is interesting!!
 
 ## 🔧 Languages & Tools
 <p align='left'>
